@@ -2,6 +2,8 @@
 **/*.o
 **/*.s
 src/.depend
+obj/*
+libs/*
 
 # Built binary
 src/stockfish*
